@@ -1,6 +1,6 @@
-bit res_in=0; /*res_in é 1 se o responsável está no quarto, 0 caso contrário*/
-byte na=0; /*na é o número de alunos no quarto*/
-bit busca=0; /*busca é 1 se está a decorrer uma busca, 0 caso contrário*/
+bit res_in=0; /*res_in ≈Ω 1 se o respons‚Ä°vel est‚Ä° no quarto, 0 caso contr‚Ä°rio*/
+byte na=0; /*na ≈Ω o n≈ìmero de alunos no quarto*/
+bit busca=0; /*busca ≈Ω 1 se est‚Ä° a decorrer uma busca, 0 caso contr‚Ä°rio*/
 
 active [6] proctype A(){
 bit a_in=0;
