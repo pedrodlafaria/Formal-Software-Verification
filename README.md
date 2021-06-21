@@ -1,3 +1,3 @@
 # Formal Software Verification
 
-Experiments with Model Checking, Promela and SPIN
+Experiments with SAT solvers, Model Checking, Promela and SPIN
